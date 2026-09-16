@@ -37,30 +37,3 @@ Hyderabad, Pakistan · Open to relocation (Lahore / Islamabad) · CS at [MUET](h
 | Queues | Kafka, RabbitMQ, Redis, BullMQ |
 | Infra | Docker, Nginx, Certbot, GitLab CI/CD, GitHub Actions, Ubuntu Server, AWS, OCI |
 | Data | MongoDB, PostgreSQL, MySQL, ClickHouse, Redis |
-
----
-
-## Public repos
-
-<a href="https://github.com/thehassanraza/AI-Docker-Compose-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thehassanraza&repo=AI-Docker-Compose-Generator&theme=transparent&hide_border=true" alt="AI Docker Compose Generator" />
-</a>
-<a href="https://github.com/thehassanraza/auth_server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thehassanraza&repo=auth_server&theme=transparent&hide_border=true" alt="auth_server" />
-</a>
-<a href="https://github.com/thehassanraza/realtimechat-backend-node.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thehassanraza&repo=realtimechat-backend-node.js&theme=transparent&hide_border=true" alt="realtime chat backend" />
-</a>
-<a href="https://github.com/thehassanraza/project-manager-backend-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thehassanraza&repo=project-manager-backend-&theme=transparent&hide_border=true" alt="project manager backend" />
-</a>
-
----
-
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehassanraza&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehassanraza&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top languages" />
-</div>
